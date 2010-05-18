@@ -27,7 +27,7 @@ to be short and to the point, and have some test coverage.
 
 =cut
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 use Apache2::Connection ();
 use Apache2::RequestRec ();
